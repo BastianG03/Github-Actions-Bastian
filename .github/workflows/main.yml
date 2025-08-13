@@ -17,3 +17,7 @@ jobs:
           name: code
           path: .
           include-hidden-files: true
+env:
+  docker_username: <your docker username>
+  docker_password: <your docker password>
+  GIT_COMMIT: <your git commit>
