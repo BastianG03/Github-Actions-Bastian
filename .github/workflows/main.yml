@@ -19,5 +19,5 @@ jobs:
 
       - name: run a multi-line script
         run: |
-          echo add another action
+          echo add another action,
           echo to build and test your project
